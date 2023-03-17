@@ -6,5 +6,8 @@
     <string name="input_password_string">input password</string>
     <string name="btn_login_string">LOGIN</string>
     <string name="signup_string">SignUp</string>
+    <string name="happy_birthday_sam">Happy Birthday Sam!</string>
+    <string name="from_emma">From Emma.</string>
+    <string name="image_description">ice cream</string>
 
 </resources>
