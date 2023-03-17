@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Chapter2</string>
     <string name="latihan2">Linear Layout (Without Weight)</string>
+    <string name="h1_latihan_relative">LOGIN</string>
+    <string name="input_username_string">input username</string>
+    <string name="input_password_string">input password</string>
+    <string name="btn_login_string">LOGIN</string>
+    <string name="signup_string">SignUp</string>
+
 </resources>
