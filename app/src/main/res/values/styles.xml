@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textJudul">
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="btn">
+        <item name="android:backgroundTint">@color/purple_200</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="textSignup">
+        <item name="android:textColor">@color/material_dynamic_primary40</item>
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+
+</resources>

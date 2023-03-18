@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chapter2</string>
+    <string name="btn_login_string">Masuk</string>
+    <string name="signup_string">Daftar</string>
+    <string name="login">MASUK</string>
+    <string name="login_btn">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="register">DAFTAR</string>
+    <string name="register_btn_text">Daftar</string>
+    <string name="login_field">Masuk</string>
+    <string name="hello_welcome">Halo, Selamat datang!</string>
+</resources>

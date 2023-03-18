@@ -1,13 +1,26 @@
 <resources>
     <string name="app_name">Chapter2</string>
-    <string name="latihan2">Linear Layout (Without Weight)</string>
-    <string name="h1_latihan_relative">LOGIN</string>
-    <string name="input_username_string">input username</string>
-    <string name="input_password_string">input password</string>
+    <string name="latihan2" translatable="false">Linear Layout (Without Weight)</string>
+    <string name="h1_latihan_relative" translatable="false">LOGIN</string>
+    <string name="input_username_string" translatable="false">input username</string>
+    <string name="input_password_string" translatable="false">input password</string>
     <string name="btn_login_string">LOGIN</string>
     <string name="signup_string">SignUp</string>
-    <string name="happy_birthday_sam">Happy Birthday Sam!</string>
-    <string name="from_emma">From Emma.</string>
-    <string name="image_description">ice cream</string>
+    <string name="happy_birthday_sam" translatable="false">Happy Birthday Sam!</string>
+    <string name="from_emma" translatable="false">From Emma.</string>
+    <string name="image_description" translatable="false">ice cream</string>
+    <string name="malam_minggu" translatable="false">Malam minggu</string>
+    <string name="button_aja" translatable="false">button aja</string>
+    <string name="login">LOGIN</string>
+    <string name="password" translatable="false">password</string>
+    <string name="username" translatable="false">username</string>
+    <string name="login_btn">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="register">REGISTER</string>
+    <string name="masukan_nama" translatable="false">Masukan Nama</string>
+    <string name="ulangi_password" translatable="false">Ulangi Password</string>
+    <string name="register_btn_text">Register</string>
+    <string name="login_field">Login</string>
+    <string name="hello_welcome">Hello,welcome!</string>
 
 </resources>
